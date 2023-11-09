@@ -1,4 +1,4 @@
-# https://github.com/jonasschmedtmann/complete-javascript-course
+###### https://uche-jordy-forkify.netlify.app/
 
 > npm i parcel@2.2.1 -D
 > npm install @parcel/transformer-sass@2.10.1 --save-dev
