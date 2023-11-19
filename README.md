@@ -1,3 +1,16 @@
+## Hi There ⭐️
+
+To see website, [go here 👋](https://uche-jordy-forkify.netlify.app/)
+
+### To Test
+
+> npm run start
+
+### To Run
+
+> npm run build
+
+<!--
 ###### https://uche-jordy-forkify.netlify.app/
 
 > npm i parcel@2.2.1 -D
@@ -33,3 +46,4 @@
 https://spoonacular.com/food-api
 https://jsdoc.app/
 https://www.netlify.com/
+-->
