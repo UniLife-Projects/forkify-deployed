@@ -1,8 +1,8 @@
-# Forkify App
+# Forkify App 🍉
 
 Explore a world of culinary delights with Forkify, a dynamic web application designed for food enthusiasts and chefs alike. Experience the seamless integration of modern web technologies and design aesthetics at [Forkify](https://uche-jordy-forkify.netlify.app/).
 
-## Features
+## Features 🍓
 
 - **Dynamic Recipe Search**: Discover a plethora of recipes with a robust, multi-page search functionality.
 - **Recipe Details**: Each selection provides ingredients, portions, preparation time, and serving adjustments.
