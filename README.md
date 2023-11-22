@@ -65,10 +65,10 @@ Developed by Jordy Uche, a passionate software engineer focused on creating enga
 
 ## Sneak Peek
 
-![Forkify App Screenshot](Images/1.png)
-![Forkify App Interface](Images/2.png)
-![Forkify App Interface](Images/3.png)
-![Forkify App Interface](Images/4.png)
+![Forkify App Screenshot](images/1.png)
+![Forkify App Interface](images/2.png)
+![Forkify App Interface](images/3.png)
+![Forkify App Interface](images/4.png)
 
 ## License
 
