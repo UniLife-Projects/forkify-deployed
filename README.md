@@ -63,6 +63,12 @@ Interested in contributing? Fork the repository here: [Forkify GitHub](https://g
 
 Developed by Jordy Uche, a passionate software engineer focused on creating engaging and innovative web applications.
 
+## Sneak Peek
+![Forkify App Screenshot](Images/1.png)
+![Forkify App Interface](Images/2.png)
+![Forkify App Interface](Images/3.png)
+![Forkify App Interface](Images/4.png)
+
 ## License
 
 This project is licensed under the ISC License.
