@@ -15,9 +15,9 @@ Explore a world of culinary delights with Forkify, a dynamic web application des
 
 Ensure you have npm installed. Initialize a new project with:
 
-\```bash
+```bash
 npm init
-\```
+```
 
 ### Dependencies
 
@@ -30,20 +30,21 @@ The Forkify app leverages several packages for optimal functionality:
 
 To install these dependencies, run:
 
-\```bash
-npm install @parcel/transformer-sass core-js fractional fracty regenerator-runtime sass
-\```
+```bash
+npm install parcel@2.2.1 @parcel/transformer-sass@2.10.1 core-js@3.6.5 fractional@1.0.0 fracty@1.0.9 regenerator-runtime@0.13.7 sass@1.26.10
+
+```
 
 ### Scripts
 
 Use the following scripts for development and production (inside package.json):
 
-\```json
+```json
 "scripts": {
 "start": "parcel index.html",
 "build": "parcel build index.html --dist-dir ./dist"
 }
-\```
+```
 
 ##### Inside package.json
 
