@@ -1,9 +1,10 @@
-# [Forkify App: Cook Like a Chef 🍉](https://uche-jordy-forkify.netlify.app/)
+# [Forkify App: Cook Like a Chef 🍉 (MVC architecture)](https://uche-jordy-forkify.netlify.app/)
 
 Explore a world of culinary delights with Forkify, a dynamic web application designed for food enthusiasts and chefs alike. Experience the seamless integration of modern web technologies and design aesthetics at [Forkify](https://uche-jordy-forkify.netlify.app/).
 
 ## Features 🍓
 
+- **MVC Architecture**: Forkify implements the MVC architectural pattern.
 - **Dynamic Recipe Search**: Discover a plethora of recipes with a robust, multi-page search functionality.
 - **Recipe Details**: Each selection provides ingredients, portions, preparation time, and serving adjustments.
 - **API Integration**: Leverage asynchronous JavaScript to fetch and post recipes to an external API.
