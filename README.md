@@ -1,4 +1,4 @@
-# Forkify App 🍉
+# [Forkify App: Cook Like a Chef 🍉](https://uche-jordy-forkify.netlify.app/)
 
 Explore a world of culinary delights with Forkify, a dynamic web application designed for food enthusiasts and chefs alike. Experience the seamless integration of modern web technologies and design aesthetics at [Forkify](https://uche-jordy-forkify.netlify.app/).
 
