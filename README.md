@@ -51,11 +51,15 @@ Use the following scripts for development and production (inside package.json):
 
 - Parcel v2
 
-  > "build": "parcel build index.html --dist-dir ./dist"
+  ```json
+  "build": "parcel build index.html --dist-dir ./dist"
+  ```
   > This means: distribution directory inside a folder called 'dist'
 
 - Parcel v1
-  > "build": "parcel build index.html --out-dir ./dist"
+  ```json
+  "build": "parcel build index.html --out-dir ./dist"
+  ```
 
 ## Contributing
 
